@@ -60,4 +60,8 @@ I thrive in collaborative environments, having worked with UI/UX designers, back
 - 💼 [LinkedIn](https://www.linkedin.com/in/pahnaladitia)
 - 🧑‍💻 [GitHub](https://github.com/fahnaladitia)
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahnaladitia&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 Let's build something amazing together 🚀
