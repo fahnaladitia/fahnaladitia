@@ -14,7 +14,7 @@ Since 2022 I've worked on the Swing apps; on my own time I build Receh and dashc
 | Release | Platforms | Version | Date |
 |---|---|---|---|
 | [Swing - Multisport App](https://pahnal.com/work/swing-multisport) | Android, iOS | 5.2.0 | 16 Nov 2026 |
-| [dashcrew](https://pahnal.com/work/dashcrew) | Backend | v0.6.0 | 16 Nov 2026 |
+| [dashcrew](https://pahnal.com/work/dashcrew) | Android, iOS | v0.6.0 | 16 Nov 2026 |
 | [Swing POS](https://pahnal.com/work/swing-pos) | Android, iOS | 1.2.2 | 3 Sep 2026 |
 | [Swing for Partners](https://pahnal.com/work/swing-partners) | Android, iOS | 1.1.3 | 3 Sep 2026 |
 
